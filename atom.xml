@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>吖奇说 ARCHY SHUŌ</title>
+    <link href="https://archy.sh/atom.xml" rel="self" />
+    <link href="https://archy.sh" />
+    <id>https://archy.sh/atom.xml</id>
+    <author>
+        <name>Archy Will He</name>
+        <email>a@0a.io</email>
+    </author>
+    <updated>Unknown</updated>
+    
+</feed>

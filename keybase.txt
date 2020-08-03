@@ -1,0 +1,55 @@
+==================================================================
+https://keybase.io/archywilhes
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://archy.sh
+  * I am archywilhes (https://keybase.io/archywilhes) on keybase.
+  * I have a public key ASCDDp5FymVWKlXJCRDmNQMLxjtJoKHyOhFeKpQH18Vpiwo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120830e9e45ca65562a55c90910e635030bc63b49a0a1f23a115e2a9407d7c5698b0a",
+      "host": "keybase.io",
+      "kid": "0120830e9e45ca65562a55c90910e635030bc63b49a0a1f23a115e2a9407d7c5698b0a",
+      "uid": "f9731fd97e41e035135d598a9e8ebf19",
+      "username": "archywilhes"
+    },
+    "merkle_root": {
+      "ctime": 1514556671,
+      "hash": "c61feeb85d5afc76d844bdc33e76a9ff95669a7e2b1b4fcca93dcd6b2e1788b6501a4b2796d8153f6d25ac93e38117be7e7ce205633f19c36bd29b27fb2356e6",
+      "hash_meta": "72aad45bb8bdb1395d6b883448d8beea8b04beabd641808f18258847ae2f41a8",
+      "seqno": 1867331
+    },
+    "service": {
+      "hostname": "archy.sh",
+      "protocol": "http:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "1.0.38"
+  },
+  "ctime": 1514556709,
+  "expire_in": 504576000,
+  "prev": "d57381e46cafe64d8ce246ba2b15d2c9160c879e3a1a133d01d5e38ccc1d4a72",
+  "seqno": 19,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEggw6eRcplVipVyQkQ5jUDC8Y7SaCh8joRXiqUB9fFaYsKp3BheWxvYWTFA0N7ImJvZHkiOnsia2V5Ijp7ImVsZGVzdF9raWQiOiIwMTIwODMwZTllNDVjYTY1NTYyYTU1YzkwOTEwZTYzNTAzMGJjNjNiNDlhMGExZjIzYTExNWUyYTk0MDdkN2M1Njk4YjBhIiwiaG9zdCI6ImtleWJhc2UuaW8iLCJraWQiOiIwMTIwODMwZTllNDVjYTY1NTYyYTU1YzkwOTEwZTYzNTAzMGJjNjNiNDlhMGExZjIzYTExNWUyYTk0MDdkN2M1Njk4YjBhIiwidWlkIjoiZjk3MzFmZDk3ZTQxZTAzNTEzNWQ1OThhOWU4ZWJmMTkiLCJ1c2VybmFtZSI6ImFyY2h5d2lsaGVzIn0sIm1lcmtsZV9yb290Ijp7ImN0aW1lIjoxNTE0NTU2NjcxLCJoYXNoIjoiYzYxZmVlYjg1ZDVhZmM3NmQ4NDRiZGMzM2U3NmE5ZmY5NTY2OWE3ZTJiMWI0ZmNjYTkzZGNkNmIyZTE3ODhiNjUwMWE0YjI3OTZkODE1M2Y2ZDI1YWM5M2UzODExN2JlN2U3Y2UyMDU2MzNmMTljMzZiZDI5YjI3ZmIyMzU2ZTYiLCJoYXNoX21ldGEiOiI3MmFhZDQ1YmI4YmRiMTM5NWQ2Yjg4MzQ0OGQ4YmVlYThiMDRiZWFiZDY0MTgwOGYxODI1ODg0N2FlMmY0MWE4Iiwic2Vxbm8iOjE4NjczMzF9LCJzZXJ2aWNlIjp7Imhvc3RuYW1lIjoiYXJjaHkuc2giLCJwcm90b2NvbCI6Imh0dHA6In0sInR5cGUiOiJ3ZWJfc2VydmljZV9iaW5kaW5nIiwidmVyc2lvbiI6MX0sImNsaWVudCI6eyJuYW1lIjoia2V5YmFzZS5pbyBnbyBjbGllbnQiLCJ2ZXJzaW9uIjoiMS4wLjM4In0sImN0aW1lIjoxNTE0NTU2NzA5LCJleHBpcmVfaW4iOjUwNDU3NjAwMCwicHJldiI6ImQ1NzM4MWU0NmNhZmU2NGQ4Y2UyNDZiYTJiMTVkMmM5MTYwYzg3OWUzYTFhMTMzZDAxZDVlMzhjY2MxZDRhNzIiLCJzZXFubyI6MTksInRhZyI6InNpZ25hdHVyZSJ9o3NpZ8RAYSAKTZRYUtR9tSbX/hItnHtvCklPFWZp2Mme3GJTF5FgV+lGgHYazEDnXL3DeCQffTb2zBMhh1czSZ59q3R/BqhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFx9EyLJfD1flJL6+voq6k+EjJasgByxwvtKOeO6WQd+o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/archywilhes
+
+==================================================================
